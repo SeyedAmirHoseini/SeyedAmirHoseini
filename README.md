@@ -1,9 +1,9 @@
 ## 👨‍💻 About Me
 
 Back-End Developer with experience in building web applications using **Django** and **Python**.  
-Skilled in designing **RESTful APIs**, modeling **relational databases**, and creating **Telegram bots** using the `python-telegram-bot` library.
-Have some experience with C++ and a solid understanding of programming fundamentals.
-Familiar with JavaScript, HTML, and CSS for basic front-end development.
+Skilled in designing **RESTful APIs** and creating **Telegram bots** using the [`python-telegram-bot`](https://github.com/python-telegram-bot/python-telegram-bot) library.  
+Have some experience with **C++** and **Qt creator** framework and a solid understanding of programming fundamentals.  
+Familiar with JavaScript, HTML, and CSS for basic front-end development.  
 
 ---
 
